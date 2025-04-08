@@ -1,1 +1,1 @@
-# Saeedanbarimoghadam-satellite_image_classification
+# satellite_image_classification
